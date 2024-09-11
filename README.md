@@ -24,12 +24,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - In this project I made a wave on the ocean on a 32 x 32 grid. And I had to make three painters to do it. One made the background, one made a big wave, and one made a smaller wave
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - Im proud that I was able to improve my coding skills in the past two weeks. And I am also pround I was able to make this project on a 32 x 32 grid
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - If I had the opportunity I would have added more details like a mini island or rain.
